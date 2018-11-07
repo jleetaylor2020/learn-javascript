@@ -2,7 +2,7 @@ let cars = ['Mustang', 'Porsche', 'Mercedes'];
 let title = 'Awesome Cars';
 let numbers = [2, 5, 10];
 
-// CARS EXAMPLE//
+// CARS EXAMPLE//----------------------------
 // shows the index list of array in console debugger
 console.log (cars);
 console.log (title);
@@ -23,7 +23,9 @@ cars.shift();
 cars.unshift ('Ford');
 // remove an item ie 'Porsche' by its index position from the array ie "Chevy" ws removed.
 let removedItem = cars.splice ([3]);
-
+// ---------------------------------------
 //NUMBERS EXAMPLE
 // indexes the item numbers [2, 5, 10]
 console.log (numbers);
+// ----------------------------------------
+
