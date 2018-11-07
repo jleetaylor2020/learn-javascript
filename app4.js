@@ -21,7 +21,7 @@ console.log(greeting.length);
 console.log(greeting['length']);
 // Logs 11 to the console
 console.log(greeting[property]);
-// Logs "funtion" to the console
+// Logs "function" to the console
 console.log(typeof greeting.toUpperCase);
 // Logs "Hello World" to the console
 console.log(greeting.toUpperCase());
