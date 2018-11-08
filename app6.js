@@ -1,3 +1,12 @@
+var adultAge = 18
+if (adultAge < 18) {
+    alert ("Congratulations! You are of an adult age.");
+    
+}
+else {
+    alert ("I'm sorry. You are not adult age. Try again later.");
+
+}
 
 
 
@@ -24,7 +33,7 @@
 // Use false instead of new Boolean()
 // Use [] instead of new Array()
 // Use /()/ instead of new RegExp()
-Use function (){} instead of new Function()
+// Use function (){} instead of new Function()
 
 // Operand and Operator - operators are applied to operand. For example:
 // ..Expression  8 * 3  there are two operands. Left operand 8, Right oeprand 3

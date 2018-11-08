@@ -28,4 +28,7 @@ let removedItem = cars.splice ([3]);
 // indexes the item numbers [2, 5, 10]
 console.log (numbers);
 // ----------------------------------------
+//  NEW EXAMPLE BELOW ----------------------
+myVariable = 'Bob';
+var myVariable = 'Bob';
 
