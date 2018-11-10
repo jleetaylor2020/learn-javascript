@@ -1,12 +1,28 @@
-var adultAge = 18
-if (adultAge < 18) {
-    alert ("Congratulations! You are of an adult age.");
+// var adultAge = 18
+// if (adultAge > 18) {
+    // alert ("Congratulations! You are over the adult age.");
     
-}
-else {
-    alert ("I'm sorry. You are not adult age. Try again later.");
+// }
+// else if (adultAge === 18)  
+    // alert ("Congrats. You are the minimum adult age!");
 
-}
+
+// else (adultAge < 18)  
+    // alert ("I'm sorry. You are not adult age. Try again later.");
+
+// {}
+
+// alert ("Incoming Message for Jess");
+// prompt ("Is it Friday yet?");
+
+// function greeting () {
+    // var name=prompt("What is your nickname?");
+    // alert("Welcome to Jess's Blog Subscription Page" + name); 
+// }
+
+// greeting ();
+
+// NOTE ------>remove// marks in order to test page functions and operators.
 
 
 
