@@ -30,4 +30,13 @@ function NewAge (dogAge) {
 
 NewAge (3);
 // -------------------------------------------------------
+// It's hot out! Let's make a converter based on the steps here.Create a function called celsiusToFahrenheit: Store a celsius temperature into a variable. Convert it to fahrenheit and output "NN°C is NN°F". Create a function called fahrenheitToCelsius: Now store a fahrenheit temperature into a variable. Convert it to celsius and output "NN°F is NN°C."
+
+function celsiusToFahrenheit(cTemp) {
+    var totalF=(cTemp * 9) / 5 + 32;
+    var statement= (cTemp) + ' degrees C is ' + (totalF) + ' degrees F. Brrrr...! '
+    alert(statement);
+}
+
+celsiusToFahrenheit (5);
 
